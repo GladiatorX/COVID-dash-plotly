@@ -19,7 +19,7 @@ These dependencies can be installed with (after first sourcing into a newly-crea
 
 The data for this dashboard is fetched from the the REST API 
 
-( *NOTE* Currently API support is deprecated )
+( **NOTE** Currently API support is deprecated )
 
 # Usage
 
