@@ -28,4 +28,5 @@ To run the application, move to the top level of this directory and run the foll
 `python CoronaDash.py`
 
 # Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WBA5u8ruQvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* https://www.youtube.com/embed/WBA5u8ruQvo 
