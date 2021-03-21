@@ -1,11 +1,31 @@
 # COVID-dash-plotly
 COVID Dashboard — Statistical Analysis of Covid cases in **India**
 
-T
 The Coronavirus dashboard provides an overview of the 2019 Novel Coronavirus COVID-19 (2019-nCoV) epidemic. 
 The dashboard is built with Python Plotly.
 
-The data behind this dashboard called via the REST API.
-Currently API support is deprecated.
+# Installation
+The application is based in Python 3.7 and requires the following packages:
 
-Look @ VIDEO
+* pandas
+* dash
+* plotly
+* requests 
+* bs4 
+
+These dependencies can be installed with (after first sourcing into a newly-created virtual environment):
+
+`pip install -r requirements.txt`
+
+The data for this dashboard is fetched from the the REST API 
+
+( *NOTE* Currently API support is deprecated )
+
+# Usage
+
+To run the application, move to the top level of this directory and run the following command:
+
+`python CoronaDash.py`
+
+# Demo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WBA5u8ruQvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
